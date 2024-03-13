@@ -7,3 +7,6 @@ def inverteString(string: str):
 
     return stringInvertida
 
+# Exemplo de uso
+entrada = str(input("Digite uma string a ser invertida: "))
+print(f'A string invertida é : {inverteString(entrada)}')

@@ -74,7 +74,13 @@ IMPORTANTE:
 
 Resposta da questão 1:
 
-- [questão 1]()
+- Resposta: 91
+
+Este pseudocódigo é um exemplo de um loop em uma linguagem de programação. Ele inicializa três variáveis: INDICE com o valor 13, SOMA com o valor 0 e K com o valor 0. Em seguida, ele entra em um loop enquanto K for menor que INDICE.
+
+Dentro do loop, a cada iteração, K é incrementado em 1 e SOMA é atualizado somando o valor de K. Este processo continua até que K seja igual a INDICE, momento em que o loop termina.
+
+O valor final de SOMA será a soma de todos os números de 1 até 13, ou seja, 1 + 2 + 3 + ... + 13. Para este caso, o valor impresso será 91.
 
 Resposta da questão 2:
 
@@ -90,5 +96,6 @@ Resposta da questão 4:
 
 Resposta da questão 5:
 
-- [questão 5]()
+- [questão 5 com exemplos](/questao5_exemplos.py)
+- [questão 5 com entrada (input) para ser testada pelo usuário](/questao5_input.py)
 
