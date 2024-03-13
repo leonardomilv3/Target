@@ -1,4 +1,4 @@
-def invertaString(string: str):
+def inverteString(string: str):
     stringInvertida = ''
     tamanhoStr = len(string)
 
@@ -7,9 +7,3 @@ def invertaString(string: str):
 
     return stringInvertida
 
-
-print(invertaString('abcdefg'))
-
-print(invertaString('arroz com feijão'))
-
-print(invertaString('batata frita'))
