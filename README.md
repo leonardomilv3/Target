@@ -84,18 +84,46 @@ O valor final de SOMA será a soma de todos os números de 1 até 13, ou seja, 1
 
 Resposta da questão 2:
 
-- [questão 2]()
+- [questão 2](/questao2.py)
 
 Resposta da questão 3:
 
-- [questão 3]()
+a) 1, 3, 5, 7, **9**.
+
+Letra a, sequencia de 2 em 2.
+
+b) 2, 4, 8, 16, 32, 64, **128**.  
+
+Letra b, sequencia de 2 elevado a n.
+
+c) 0, 1, 4, 9, 16, 25, 36, **49**.
+
+Letra c, sequencia de quadrados perfeitos.
+
+d) 4, 16, 36, 64, **100**.  
+
+Letra d, sequencia de quadrados dos numeros naturais, 2^2 , 4^4, 6^6, 8^8.
+
+e) 1, 1, 2, 3, 5, 8, **13**.
+
+Letra e, sequencia de fibonacci.
+
+f) 2, 10, 12, 16, 17, 18, 19, **20**. 
 
 Resposta da questão 4:
 
-- [questão 4]()
+Primeira ida:
+- Ligue o primeiro interruptor e espere alguns minutos.
+- Depois, desligue o primeiro interruptor e ligue o segundo interruptor.
+- Em seguida, entre na sala onde está a lâmpada correspondente aos interruptores 1 e 2.
+
+Segunda ida:
+- Neste momento, você estará na sala com a lâmpada acesa.
+- Sinta a temperatura das lâmpadas ou olhe se estão acesas. A lâmpada que estiver acesa corresponderá ao último interruptor ligado antes de você entrar na sala.
+- A lâmpada que ainda estiver apagada será a que corresponde ao interruptor que não foi usado.
+
 
 Resposta da questão 5:
 
-- [questão 5 com exemplos](/questao5_exemplos.py)
-- [questão 5 com entrada (input) para ser testada pelo usuário](/questao5_input.py)
+- [questão 5](/questao5.py)
 
